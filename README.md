@@ -8,11 +8,11 @@ Pictures are changed after a certain period of time.
 
 * Create or delete menu bar when clicking a photo.
 
-[Grow] : Increasing picture's size.
+    [Grow] : Increasing picture's size.
 
-[Change] : Changing to next photo.
+    [Change] : Changing to next photo.
 
-[End] : Exit app.
+    [End] : Exit app.
 
 
 ## Android study

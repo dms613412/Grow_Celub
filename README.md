@@ -7,6 +7,7 @@ Pictures are changed after a certain period of time.
 ## Menus
 
 * Create or delete menu bar when clicking a photo.
+
 [Grow] : Increasing picture's size.
 
 [Change] : Changing to next photo.
